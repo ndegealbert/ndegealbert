@@ -20,8 +20,10 @@
 
 - 💬 Ask me about ...  
       -Javascript 
+      
 - 📫 How to reach me: ...
       -albertndege2@gmail.com
+      
 - ⚡ Fun fact: ...  
       -i'm always joviol
 -->
