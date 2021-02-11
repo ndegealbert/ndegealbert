@@ -14,14 +14,16 @@
 - JavaScript
 - React.js
 - Node.js
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
-       =React-native
+       -React-native
 
-- 💬 Ask me about ...  Javascript 
-- 📫 How to reach me: ... albertndege2@gmail.com
-- ⚡ Fun fact: ...  i'm always joviol
+- 💬 Ask me about ...  
+      -Javascript 
+- 📫 How to reach me: ...
+      -albertndege2@gmail.com
+- ⚡ Fun fact: ...  
+      -i'm always joviol
 -->
 
 <!--
