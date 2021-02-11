@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ndegealbert/ndegealbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- <img src="https://raw.githubusercontent.com/jovertical/jovertical/master/art/code.png" width="400" alt="Code" />
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 
 <p align="center">
   <p align="center">
@@ -29,3 +23,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... albertndege2@gmail.com
 - ⚡ Fun fact: ...  i'm always joviol
 -->
+
+<!--
+**ndegealbert/ndegealbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img src="https://raw.githubusercontent.com/jovertical/jovertical/master/art/code.png" width="400" alt="Code" />
+- 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+
+
