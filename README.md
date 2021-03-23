@@ -8,12 +8,13 @@
 </p>
 
 ## ✨ My Expertise
-- PHP
-- Python
-- Laravel
 - JavaScript/Typescript 
 - React.js
 - Node.js
+- PHP
+- Python
+- Laravel
+
 
 - 🌱 I’m currently learning ...
        -React-native
