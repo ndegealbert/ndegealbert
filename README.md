@@ -9,7 +9,7 @@
 
 ## ✨ My Expertise
 - JavaScript/Typescript 
-- React.js
+- React.js and Redux
 - Node.js
 - PHP
 - Python
