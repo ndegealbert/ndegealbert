@@ -16,8 +16,10 @@
 - Laravel
 
 
+
 - 🌱 I’m currently learning ...
        -React-native
+       -Amazon Web Service(AWS)
 
 - 💬 Ask me about ...  
       -Javascript 
