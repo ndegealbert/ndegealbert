@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning ..
+- 🌱 I’m currently learning 
       -Amazon Web Service(AWS)
       -Go programming languge
 
