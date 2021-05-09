@@ -17,9 +17,9 @@
 
 
 
-- 🌱 I’m currently learning ...
-       -React-native
-       -Amazon Web Service(AWS)
+- 🌱 I’m currently learning ..
+      -Amazon Web Service(AWS)
+      -Go programming languge
 
 - 💬 Ask me about ...  
       -Javascript 
