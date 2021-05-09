@@ -24,6 +24,7 @@
 
 - 💬 Ask me about ...  
       -Javascript 
+      -Blockchain
       
 - 📫 How to reach me: ...
       -albertndege2@gmail.com
