@@ -11,7 +11,6 @@
 - JavaScript/Typescript 
 - React.js and Redux
 - Node.js
-- PHP
 - Python
 - Laravel
 
