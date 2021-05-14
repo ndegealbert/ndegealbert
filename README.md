@@ -3,7 +3,7 @@
 
 <p align="center">
   <p align="center">
-    I'm a Full Stack Developer for 3 years now. I speak fluently when using <strong>python</strong> and <strong>JavaScript/Tpypescript</strong>.
+    I'm a Full Stack Developer for 4 years now. I speak fluently when using <strong>python</strong> and <strong>JavaScript/Tpypescript</strong>.
   </p>
 </p>
 
