@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning ...  
 
       -Amazon Web Service(AWS)
-      -Go programming languge
+      -Go lang programming languge
 
 - 💬 Ask me about ...  
 
@@ -28,6 +28,9 @@
       
 - 📫 How to reach me: ...
       -albertndege2@gmail.com
+    
+- 👯 I’m looking to collaborate on any blockchain project
+      
       
 - ⚡ Fun fact: ...  
       -i'm always joviol
