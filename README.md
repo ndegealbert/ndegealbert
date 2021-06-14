@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning ...  
 
       -Amazon Web Service(AWS)
-      -Go lang programming languge
+      -Go lang 
 
 - 💬 Ask me about ...  
 
