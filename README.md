@@ -11,8 +11,8 @@
 - JavaScript/Typescript 
 - React.js and Redux
 - Node.js
-- Python
-- Laravel
+- Java-Spring boot
+- php-Laravel
 
 
 
