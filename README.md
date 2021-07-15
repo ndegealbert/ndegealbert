@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning **Software Architecture & Design pattern**, **Amazon Web Service(AWS)**, **GO **
 
 - 💬 Ask me about ...  
-      -Javascript 
       -Blockchain
       
    - 📫 Reach me via: [Twitter](https://twitter.com/albertndege_) | [Email](mailto:albertndege2@gmail.com.com) | [LinkedIn](https://www.linkedin.com/in/ndege-albert-136178155/)
