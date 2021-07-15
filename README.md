@@ -26,7 +26,7 @@
       -Javascript 
       -Blockchain
       
-   - 📫 Reach me via: [Twitter](https://twitter.com/albertndege_) | [Email](mailto:albertndege2@gmail.com.com) | [LinkedIn](https://www.linkedin.com/in/ndege-     albert-136178155/)
+   - 📫 Reach me via: [Twitter](https://twitter.com/albertndege_) | [Email](mailto:albertndege2@gmail.com.com) | [LinkedIn](https://www.linkedin.com/in/ndege-albert-136178155/)
       
     
 - 👯 I’m looking to collaborate on any blockchain project
@@ -48,6 +48,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndegealbert&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ndegealbert)
+
 </p>
 
 
