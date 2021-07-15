@@ -8,21 +8,11 @@
 </p>
 
 ## ✨ My Expertise
-- JavaScript/Typescript 
-- React.js and Redux
-- Node.js
-- Java-Spring boot
-- Php-Laravel $ Slim
 
-
-
-- 🌱 I’m currently learning ...  
-
-      -Amazon Web Service(AWS)
-      -Go lang 
+- ⚙️ I use: `Nodejs`, `Express`, `JavaScript`, `Typescript`, `Nestjs`, `Docker`, `gRPC`, `Python`, `php`, `laravel`, `GraphQL`, `Apollo`, `lumen`, `MongoDb`, `MySQL`, `PostgresSQL`, `Redis`, `Firebase`, `Jest`, `ElephantSQL`, `Heroku`, `Github Actions`, `Digital Ocean`
+- 🌱 I’m currently learning **Software Architecture & Design pattern**, **Amazon Web Service(AWS)**, **GO LANG**
 
 - 💬 Ask me about ...  
-
       -Javascript 
       -Blockchain
       
