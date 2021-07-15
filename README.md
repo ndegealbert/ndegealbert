@@ -12,7 +12,7 @@
 - React.js and Redux
 - Node.js
 - Java-Spring boot
-- Php-Laravel
+- Php-Laravel $ Slim
 
 
 
