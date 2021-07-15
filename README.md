@@ -36,13 +36,6 @@
       -i'm always joviol
 -->
 
-<!--
-**ndegealbert/ndegealbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- <img src="https://raw.githubusercontent.com/jovertical/jovertical/master/art/code.png" width="400" alt="Code" />
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
 <p align='center'>
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndegealbert&layout=compact)
@@ -50,6 +43,15 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ndegealbert)
 
 </p>
+
+
+<!--
+**ndegealbert/ndegealbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img src="https://raw.githubusercontent.com/jovertical/jovertical/master/art/code.png" width="400" alt="Code" />
+- 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+
 
 
 
