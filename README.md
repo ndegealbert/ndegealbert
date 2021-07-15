@@ -10,7 +10,7 @@
 ## ✨ My Expertise
 
 - ⚙️ I use: `Nodejs`, `Express`, `JavaScript`, `Typescript`, `Nestjs`, `Docker`,  `php`, `laravel`, `GraphQL`, `Apollo`, `slim`, `MongoDb`, `MySQL`, `PostgresSQL`, `Heroku`, `Github Actions`, `Aws`
-- 🌱 I’m currently learning **Software Architecture & Design pattern**, **Amazon Web Service(AWS)**, **GO LANG**
+- 🌱 I’m currently learning **Software Architecture & Design pattern**, **Amazon Web Service(AWS)**, **GO **
 
 - 💬 Ask me about ...  
       -Javascript 
