@@ -3,7 +3,7 @@
 
 <p align="center">
   <p align="center">
-    I'm a Full Stack Developer for 3 years now. I speak fluently when using <strong>PHP</strong> and <strong>JavaScript/Tpypescript</strong>.
+    I'm a Full Stack Developer for 4 years now. I speak fluently when using <strong>PHP</strong>,<strong>JavaScript/Tpypescript</strong> and <strong>Java</strong> .
   </p>
 </p>
 
@@ -18,7 +18,7 @@
    - 📫 Reach me via: [Twitter](https://twitter.com/albertndege_) | [Email](mailto:albertndege2@gmail.com.com) | [LinkedIn](https://www.linkedin.com/in/ndege-albert-136178155/)
       
     
-- 👯 I’m looking to collaborate on any blockchain project
+- 👯 I’m looking to collaborate on any blockchain project,hit on me if have one
       
       
 - ⚡ Fun fact: ...  
