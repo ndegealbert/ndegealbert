@@ -15,7 +15,7 @@
 - 💬 Ask me about ...  
       -Blockchain
    
- <img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
+ <img  src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
 
    - 📫 Reach me via: [Twitter](https://twitter.com/albertndege_) | [Email](mailto:albertndege2@gmail.com.com) | [LinkedIn](https://www.linkedin.com/in/ndege-albert-136178155/)
       
