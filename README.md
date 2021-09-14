@@ -9,7 +9,7 @@
 
 ## ✨ My Expertise
 
-- ⚙️ I use: `Nodejs`,`JavaScript`, `Typescript`, `Nestjs`,`Docker`,`Php`, `laravel`, `slim`, `Java`,`spring-boot` MongoDb`, `MySQL`,`PostgresSQL`,`Heroku`,`Aws`
+- ⚙️ I use: `Nodejs`,`JavaScript`, `Typescript`, `Next.js`,`Docker`,`Php`, `laravel`, `slim`, `Java`,`spring-boot` MongoDb`, `MySQL`,`PostgresSQL`,`Heroku`,`Aws`
 - 🌱 I’m currently learning **Software Architecture & Design pattern**, **Amazon Web Service(AWS)**, and  **Go lang**
 
 - 💬  Ask me about anything related to  -Blockchain, would try my best to give you an answer, I am still learning by the way....  
