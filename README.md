@@ -1,15 +1,7 @@
 ### Hi there 👋
+  
+   - Thinker, learner, leader.
 
-
-<p align="center">
-  <p align="center">
-    I'm a Full Stack Developer for 4 years now. I speak fluently when using <strong>PHP</strong>,<strong>JavaScript/Tpypescript</strong> and <strong>Java</strong> .
-  </p>
-</p>
-
-## ✨ My Expertise
-
-- ⚙️ I use: `Nodejs`,`JavaScript`, `Typescript`, `Next.js`,`Docker`,`Php`, `laravel`, `slim`, `Java`,`spring-boot` MongoDb`, `MySQL`,`PostgresSQL`,`Heroku`,`Aws`
 - 🌱 I’m currently learning **Software Architecture & Design pattern**, **Amazon Web Service(AWS)**, and  **Go lang**
 
 - 💬  Ask me about anything related to  -Blockchain, would try my best to give you an answer, I am still learning by the way....  
