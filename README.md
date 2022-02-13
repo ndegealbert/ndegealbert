@@ -2,7 +2,7 @@
   
    - Thinker, learner, leader.
 
-- 🌱 I’m currently learning **Software Architecture & Design pattern**, **Amazon Web Service(AWS)**, and  **Go lang**
+- 🌱 I’m currently learning **Software Architecture & Design pattern**, **Amazon Web Service(AWS)**, **Go lang** and **Scala **
 
 - 💬  Ask me about anything related to  -Blockchain, would try my best to give you an answer, I am still learning by the way....  
      
