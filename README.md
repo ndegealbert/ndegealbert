@@ -4,7 +4,7 @@
    -  I code in  Scala, Golang, and Javascript.
 - 🌱 I’m currently learning **Software Architecture & Design pattern**, **Amazon Web Service(AWS)**, **Go lang** and **Scala **
 
-- 💬  Ask me about anything related to  -Blockchain, will try my best to give you an answer, I am still learning by the way....  
+- 💬  Ask me about anything related to  -DevOps, will try my best to give you an answer, I am still learning by the way....  
      
    
  <img  src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
