@@ -1,7 +1,7 @@
 ### Hi there 👋
   
    - Thinker, learner, leader.
-   -  I code in  Scala, Golang, and Javascript/Typescript.
+   -  I code in  Python, Golang, and Javascript/Typescript.
 - 🌱 I’m currently learning **Software Architecture & Design pattern**, **Amazon Web Service(AWS)**,and **Scala **
 
 - 💬  Ask me about anything related to  -DevOps, will try my best to give you an answer, I am still learning by the way....  
