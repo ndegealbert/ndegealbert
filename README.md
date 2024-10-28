@@ -1,5 +1,5 @@
 
-# Hi there, I'm Albert width="35px">
+# Hi there, I'm Albert 
 <br>
 
 
@@ -21,7 +21,12 @@
  <br/>
  
  ## About Me:
- I am Abel, a passionate and creative web developer with a strong background in computer science. I have experience in building responsive and user-friendly websites using the latest frontend technologies. I am always eager to learn new skills and collaborate with other developers on exciting projects. When I am not coding, I enjoy gaming and watching movies. I play a variety of games, such as Fortnite, Minecraft, Among Us, and Call of Duty. I also like to watch movies that are sci-fi, action, or comedy.
+I'm an experienced DevOps Engineer with 6+ years of developing and deploying web
+applications and APIs using JavaScript/TypeScript, Python, and Go. I'm proficient in AWS,
+Kubernetes, Jenkins, Terraform, and Ansible, with a strong focus on automation and
+scalability. I'm passionate about continuous learning and simplifying complex tasks through
+innovative solutions. I'm a collaborative team player with excellent communication skills,
+always eager to embrace new challenges and contribute to dynamic, fast-paced projects
 </div>
 
 
