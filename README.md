@@ -4,6 +4,9 @@
 
 **✨ Full Stack Software Engineer ✨** 
 
+-⚡ Fun fact  🤔🧐**I develop games for fun [sportbetting and Casinos ] **
+
+
 
  ## About Me:
 I'm an experienced DevOps Engineer with 6+ years of developing and deploying web
