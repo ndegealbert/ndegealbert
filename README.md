@@ -1,9 +1,8 @@
 
-# Hi there, I'm Albert 
-<br>
+<h1 align="center">Hi 👋, I'm Albert Ndege</h1>
+<h3 align="center">A passionate Software Engineer based in Nairobi, Kenya</h3>
 
-
-## I'm a Software Engineer/DevOps Engineer from Nairobi, Kenya!
+**✨ Full Stack Software Engineer ✨** 
 
 
 👯 I’m looking to collaborate on **web development**.<br>
