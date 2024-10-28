@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Albert Ndege</h1>
-<h3 align="center">A passionate Software Engineer based in Nairobi, Kenya</h3>
+<h1 >Hi 👋, I'm Albert Ndege</h1>
+<h3>A passionate Software Engineer based in Nairobi, Kenya</h3>
 
 **✨ Full Stack Software Engineer ✨** 
 
