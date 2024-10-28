@@ -1,6 +1,5 @@
 
-# Hi there, I'm Abel<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
-<img align=top src="https://github.com/a3ela/Blog-web-app/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif" alt="drawing" width="90%"/>
+# Hi there, I'm Albert<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 <br>
 
 
