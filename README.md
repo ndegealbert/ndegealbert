@@ -5,12 +5,6 @@
 **✨ Full Stack Software Engineer ✨** 
 
 
-👯 I’m looking to collaborate on **web development**.<br>
-📫 How to reach me:  **<a href="mailto:albertndege2@gmail.com">albertndege2@gmail.com</a> or https://www.linkedin.com/in/ndege-albert-136178155/ **.<br>
-😄 Pronouns:  **he/him**.<br>
-
-
- 
  ## About Me:
 I'm an experienced DevOps Engineer with 6+ years of developing and deploying web
 applications and APIs using JavaScript/TypeScript, Python, and Go. I'm proficient in AWS,
