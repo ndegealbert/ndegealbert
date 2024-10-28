@@ -6,18 +6,10 @@
 
 
 👯 I’m looking to collaborate on **web development**.<br>
-💬 Ask me about  **DevOps **.<br>
 📫 How to reach me:  **<a href="mailto:albertndege2@gmail.com">albertndege2@gmail.com</a> or https://www.linkedin.com/in/ndege-albert-136178155/ **.<br>
 😄 Pronouns:  **he/him**.<br>
-⚡ Fun fact:  **I love playing video games we can play CODM**.<br>
 
 
-## Languages and Tools:
-<div>
-<img src='https://skillicons.dev/icons?i=python,flask,js,html,css,mysql,mongodb,express,react,nodejs,nginx,npm,ubuntu,linux,vim,bash,vscode,vite)](https://skillicons.dev' />
-</div>
-<div align=left>
- <br/>
  
  ## About Me:
 I'm an experienced DevOps Engineer with 6+ years of developing and deploying web
