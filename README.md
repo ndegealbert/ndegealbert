@@ -3,12 +3,10 @@
 <br>
 
 
-## I'm a Software engineer!
+## I'm a Software Engineer/DevOps Engineer!
 
 <img align=right src="https://github.com/a3ela/Blog-web-app/blob/main/output-onlinegiftools.gif" alt="drawing" width="30%"/>
 
- 🔭 I’m currently working on improving my  **programming**  skills. <br>
-🌱 I’m currently learning programming in C **to improve my problem-solving skills**. <br>
 👯 I’m looking to collaborate on **web development**.<br>
 🤔 I’m looking for help with  **building a web app using React and Firebase**.<br>
 💬 Ask me about  **anything related to frontend or web development in general**.<br>
@@ -28,12 +26,7 @@
  I am Abel, a passionate and creative web developer with a strong background in computer science. I have experience in building responsive and user-friendly websites using the latest frontend technologies. I am always eager to learn new skills and collaborate with other developers on exciting projects. When I am not coding, I enjoy gaming and watching movies. I play a variety of games, such as Fortnite, Minecraft, Among Us, and Call of Duty. I also like to watch movies that are sci-fi, action, or comedy.
 </div>
 
-<!-- ## Connect with me:
 
-<img align=“left” alt=“Your Website” width=“22px” src=“https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg” />][website]
-[<img align=“left” alt=“Your Twitter” width=“22px” src=“https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg” />][twitter]
-[<img align=“left” alt=“Your LinkedIn” width=“22px” src=“https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg” />][linkedin]
--->
 
 ## 📈 GitHub Stats
 
