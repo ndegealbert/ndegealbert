@@ -4,7 +4,7 @@
 
 **✨ Full Stack Software Engineer ✨** 
 
--⚡ Fun fact  🤔🧐**I develop games for fun [sportbetting and Casinos ] **
+-⚡ Fun fact  🤔🧐 ** I develop games for fun [sportbetting and Casinos ] **
 
 
 
