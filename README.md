@@ -1,16 +1,14 @@
 
-# Hi there, I'm Albert<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+# Hi there, I'm Albert width="35px">
 <br>
 
 
-## I'm a Software Engineer/DevOps Engineer!
+## I'm a Software Engineer/DevOps Engineer from Nairobi, Kenya!
 
-<img align=right src="https://github.com/a3ela/Blog-web-app/blob/main/output-onlinegiftools.gif" alt="drawing" width="30%"/>
 
 👯 I’m looking to collaborate on **web development**.<br>
-🤔 I’m looking for help with  **building a web app using React and Firebase**.<br>
-💬 Ask me about  **anything related to frontend or web development in general**.<br>
-📫 How to reach me:  **<a href="mailto:webwizabel.com">webwizabel.com</a> or www.linkedin.com/in/abelsintayehu**.<br>
+💬 Ask me about  **DevOps **.<br>
+📫 How to reach me:  **<a href="mailto:albertndege2@gmail.com">albertndege2@gmail.com</a> or https://www.linkedin.com/in/ndege-albert-136178155/ **.<br>
 😄 Pronouns:  **he/him**.<br>
 ⚡ Fun fact:  **I love playing video games we can play CODM**.<br>
 
