@@ -2,7 +2,7 @@
 <h1 >Hi 👋, I'm Albert</h1>
 <h3>A Software/DevOps Engineer based in Nairobi, Kenya</h3>
 
-#### 🚀 Key Areas of Expertise:
+# 🚀 Key Areas of Expertise:
 
 - Kubernetes & Cloud-Native Technologies 🌐
 - Observability – Empowering system reliability through in-depth insights 🔍
@@ -13,7 +13,7 @@
 
 
 
-  #### 💬 Topics I’m Well-Versed In
+  # 💬 Topics I’m Well-Versed In
 
 - Infrastructure as Code (IaC) for AWS and GCP ☁️
 - CI/CD – Streamlining continuous integration and deployment pipelines 🔄
