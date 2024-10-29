@@ -3,10 +3,9 @@
 <h3>A Software/DevOps Engineer based in Nairobi, Kenya</h3>
 
 ##### 🚀 Key Areas of Expertise:
-
+- DevOps & Infrastructure Automation 🤖
 - Kubernetes & Cloud-Native Technologies 🌐
 - Observability – Empowering system reliability through in-depth insights 🔍
-- DevOps & Infrastructure Automation 🤖
 - Scalability & System Resilience – Ensuring high-performance and stable systems 📈
 - Programming – Go, Python, JavaScript
 - Operating Systems – Linux/Unix
