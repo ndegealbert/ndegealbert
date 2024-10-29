@@ -11,7 +11,7 @@ I am a DevOps/Full-Stack Developer, as well as an AWS Certified Solutions Archit
 - Programming – Go, Python, JavaScript
 - Operating Systems – Linux/Unix
 
-#### 📫 Connect with Me
+Find me elsewhere 🌎
 
 - Email: [albertndege2@gmail.com](mailto:albertndege2@gmail.com)
 - LinkedIn: [Ndege Albert](https://www.linkedin.com/in/ndege-albert-136178155/)
