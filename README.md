@@ -10,7 +10,7 @@ I am a DevOps/Full-Stack Developer, as well as an AWS Certified Solutions Archit
 - Scalability & System Resilience – Ensuring high-performance and stable systems 📈
 - Programming – Go, Python, JavaScript
 - Operating Systems – Linux/Unix
-- Fun fact about me: when I'm free, I enjoy developing games, including sports betting and casino games—they really stretch my brain!"
+- Fun fact about me: when I'm free, I enjoy developing games, [sports betting and casino games]—they really stretch my brain!"
 
   
 Find me elsewhere 🌎
