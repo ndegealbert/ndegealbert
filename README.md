@@ -1,6 +1,7 @@
+### Hi there 👋 Nice to meet you.
 
-<h1 >Hi 👋, I'm Albert</h1>
-<h3>A Software/DevOps Engineer based in Nairobi, Kenya</h3>
+I am a DevOps/Full-Stack Developer, as well as an AWS Certified Solutions Architect/DevOps Associate/Professional, based in Nairobi, Kenya.
+
 
 ##### 🚀 Key Areas of Expertise:
 - DevOps & Infrastructure Automation 🤖
@@ -9,18 +10,6 @@
 - Scalability & System Resilience – Ensuring high-performance and stable systems 📈
 - Programming – Go, Python, JavaScript
 - Operating Systems – Linux/Unix
-
-
-
-  ##### 💬 Topics I’m Well-Versed In
-
-- Infrastructure as Code (IaC) for AWS and GCP ☁️
-- CI/CD – Streamlining continuous integration and deployment pipelines 🔄
-- Observability – Leveraging metrics, logging, and tracing for full system visibility 📊
-- Resource Management and Orchestration (Kubernetes, YARN) 🛠️
-- Kubernetes Components – Workloads, services, storage, secrets, and more 🐳
-- Helm Chart Deployment within Kubernetes
-  
 
 #### 📫 Connect with Me
 
