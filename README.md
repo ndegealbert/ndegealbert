@@ -2,8 +2,12 @@
 <h1 >Hi 👋, I'm Albert</h1>
 <h3>A Software Engineer based in Nairobi, Kenya</h3>
 
-**✨ Full Stack Software Engineer ✨** 
+#### 🚀 Key Areas of Expertise:
 
+- **Kubernetes & Cloud-Native Technologies** 🌐
+- **Observability** – Empowering system reliability through in-depth insights 🔍
+- **DevOps & Infrastructure Automation** 🤖
+- **Scalability & System Resilience** – Ensuring high-performance and stable systems 📈
 -⚡ Fun fact  🤔🧐 ** I develop games for fun [sportbetting and Casinos ] **
 
 
