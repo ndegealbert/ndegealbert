@@ -4,7 +4,7 @@
 
 #### 🚀 Key Areas of Expertise:
 
-- **Kubernetes & Cloud-Native Technologies** 🌐
+- Kubernetes & Cloud-Native Technologies 🌐
 - **Observability** – Empowering system reliability through in-depth insights 🔍
 - **DevOps & Infrastructure Automation** 🤖
 - **Scalability & System Resilience** – Ensuring high-performance and stable systems 📈
