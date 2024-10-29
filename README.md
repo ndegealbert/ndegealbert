@@ -5,11 +5,11 @@
 #### 🚀 Key Areas of Expertise:
 
 - Kubernetes & Cloud-Native Technologies 🌐
-- **Observability** – Empowering system reliability through in-depth insights 🔍
-- **DevOps & Infrastructure Automation** 🤖
-- **Scalability & System Resilience** – Ensuring high-performance and stable systems 📈
-- **Programming** – Go, Python, JavaScript
-- **Operating Systems** – Linux/Unix
+- Observability – Empowering system reliability through in-depth insights 🔍
+- DevOps & Infrastructure Automation 🤖
+- Scalability & System Resilience – Ensuring high-performance and stable systems 📈
+- Programming – Go, Python, JavaScript
+- Operating Systems – Linux/Unix
 
 
 
@@ -25,9 +25,5 @@
 
 #### 📫 Connect with Me
 
-- **Email**: [albertndege2@gmail.com](mailto:albertndege2@gmail.com)
-- **LinkedIn**: [Ndege Albert](https://www.linkedin.com/in/ndege-albert-136178155/)
-
-
-
-## 📈 GitHub Stats
+- Email: [albertndege2@gmail.com](mailto:albertndege2@gmail.com)
+- LinkedIn: [Ndege Albert](https://www.linkedin.com/in/ndege-albert-136178155/)
