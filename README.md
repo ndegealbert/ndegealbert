@@ -19,6 +19,8 @@ Find me elsewhere 🌎
 - LinkedIn: [Ndege Albert](https://www.linkedin.com/in/ndege-albert-136178155/)
 
 
-| ✍️ Random Dev Quote |  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
+| ✍️ Random Dev Quote |  
+
+| ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
 
 
