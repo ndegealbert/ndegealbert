@@ -18,8 +18,6 @@ Find me elsewhere 🌎
 - Email: [albertndege2@gmail.com](mailto:albertndege2@gmail.com)
 - LinkedIn: [Ndege Albert](https://www.linkedin.com/in/ndege-albert-136178155/)
 
-
-| ------ | ------ |
 | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
 
 
