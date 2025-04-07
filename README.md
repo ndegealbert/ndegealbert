@@ -1,7 +1,6 @@
 ### Hi there 👋 Nice to meet you.
 
-I am a DevOps/Full-Stack Developer, as well as an AWS Certified Solutions Architect/DevOps Associate/Professional, based in Nairobi, Kenya.
-
+I am a Senior DevSecOps Engineer and Full-Stack Developer based in Nairobi, Kenya, with expertise in Platform Engineering, IaC, and Solutions Architecture. I am 2X AWS Certified (Solutions Architect & DevOps Associate/Professional) and have a strong background in PCI DSS compliance.
 
 ##### 🚀 Key Areas of Expertise:
 - DevOps & Infrastructure Automation 🤖
