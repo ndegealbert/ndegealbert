@@ -7,7 +7,7 @@ I am a Senior DevSecOps Engineer and Full-Stack Developer based in Nairobi, Keny
 - Kubernetes & Cloud-Native Technologies 🌐
 - Observability – Empowering system reliability through in-depth insights 🔍
 - Scalability & System Resilience – Ensuring high-performance and stable systems 📈
-- Programming – Go, Python,Java and JavaScript
+- Programming – PHP, Python,Java and JavaScript
 - Operating Systems – Linux/Unix
 - Fun fact about me: when I'm free, I enjoy developing games, [sports betting and casino games]—they really stretch my brain!"
 
